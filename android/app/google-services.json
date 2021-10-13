@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "429612766859",
+    "project_id": "flash-chat-f6041",
+    "storage_bucket": "flash-chat-f6041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429612766859:android:ad31f3494af9c76109e68e",
+        "android_client_info": {
+          "package_name": "co.namikng.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429612766859-2b148tu3fdlilmnhpgcfhbolaqkg2162.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DzE5MCtMjW-ilvOUJd7JKMq4x-ZphvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429612766859-2b148tu3fdlilmnhpgcfhbolaqkg2162.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
